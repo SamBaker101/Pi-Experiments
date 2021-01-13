@@ -4,5 +4,5 @@ I recently got a Raspberry Pi 4 which I am planning to use for a robotics projec
 At this point I am using C with the WiringPi library though this may change in future
 
 # Projects
-1 - Blinky - Blink an LED attached to a GPIO pin
+1 - Blinky - Blink an LED attached to a GPIO pin \n
 2 - Pressy - have an LED turn on when a button is pressed
